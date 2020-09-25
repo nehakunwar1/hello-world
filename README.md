@@ -1,3 +1,2 @@
-# hello-world
-CMSC 2020
+cmsc2020
 
